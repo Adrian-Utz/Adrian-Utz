@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Adrian-Utz
+- 👀 I’m interested in Game Development, and other coding stuff
+- 🌱 I’m currently learning Java, C++, Python
+- 📫 How to reach me: ajutz2003@gmail.com
