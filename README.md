@@ -26,6 +26,8 @@ Things I like:
     - snek
 - [C-Plus-Plus-Code](https://github.com/Adrian-Utz/C-Plus-Plus-Code)
     - A collection of programs that are informative or fun. Includes a dino jump game made in the terminal. Make your own burger. Check what your keys mean with the key translator.
+- [price-checker](https://github.com/Adrian-Utz/price-checker)
+    - A program that uses SerpApi to get product prices from Walmart and Home Depot.
 
 ## Coding Interests
 - Game Development, Image Editing
