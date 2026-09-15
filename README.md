@@ -34,10 +34,10 @@ Things I like:
 
 ## Repo's of Note
 
-[![Image-Multitool](https://img.shields.io/badge/Image_Multitool-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-Utz/Image-Multitool)
-[![simple-snake-game](https://img.shields.io/badge/simple_snake_game-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-Utz/simple-snake-game)
-[![C-Plus-Plus-Code](https://img.shields.io/badge/C_Plus_Plus_Code-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-Utz/C-Plus-Plus-Code)
-[![price-checker](https://img.shields.io/badge/price_checker-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-Utz/price-checker)  
+[![Image-Multitool](https://img.shields.io/badge/Image--Multitool-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-Utz/Image-Multitool)
+[![simple-snake-game](https://img.shields.io/badge/simple--snake--game-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-Utz/simple-snake-game)
+[![C-Plus-Plus-Code](https://img.shields.io/badge/C--Plus--Plus--Code-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-Utz/C-Plus-Plus-Code)
+[![price-checker](https://img.shields.io/badge/price--checker-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-Utz/price-checker)  
 
 **Descriptions**:
 - Image-Multitool
