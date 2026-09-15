@@ -25,6 +25,7 @@ Things I like:
 [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/about/)
 [![tqdm](https://img.shields.io/badge/tqdm-FFC107.svg?style=for-the-badge&logo=tqdm&logoColor=black)](https://tqdm.github.io/)
 [![Flask](https://img.shields.io/badge/flask-3BABC3.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
+[![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/about)
 
 ### Degree
 - Associates of Applied Science
