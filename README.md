@@ -21,7 +21,6 @@ Things I like:
 
 ### Tools
 [![Pytest](https://img.shields.io/badge/pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/#)
-[![Jinja](https://img.shields.io/badge/jinja-7E0C1B.svg?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/stable/intro/)
 [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/about/)
 [![tqdm](https://img.shields.io/badge/tqdm-FFC107.svg?style=for-the-badge&logo=tqdm&logoColor=black)](https://tqdm.github.io/)
 [![Flask](https://img.shields.io/badge/flask-3BABC3.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
