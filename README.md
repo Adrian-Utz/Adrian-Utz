@@ -13,7 +13,7 @@ Things I like:
 [![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED2E20.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![HTML](https://img.shields.io/badge/HTML-3366CC.svg?style=for-the-badge&logo=htmx&logoColor=white)](https://www.w3schools.com/html/)
+[![HTML](https://img.shields.io/badge/HTML-3366CC.svg?style=for-the-badge&logo=htmx&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
