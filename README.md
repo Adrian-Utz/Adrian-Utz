@@ -12,6 +12,9 @@ Things I like:
 - Good: Python, Java, C++
 - Passable: HTML, CSS, PHP
 - Needs some work: Javascript, C#
+
+[![Python](https://img.shields.io/badge/Language-Python-007BF5.svg)](https://www.python.org/ "Python")
+
 ### Degree
 - Associates of Applied Science
 
