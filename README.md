@@ -74,14 +74,22 @@ Things I like:
 </p>
 
 **Descriptions**:
-- Image-Multitool
-    - A Python program built with tkinter, and brought about with the dark arts. It's weird, it's clunky, it'll eat up all your ram sometimes, but it's mine.(Disclaimer: It shouldn't eat up your ram. If it does please let me know so we can fix it.)
-- simple-snake-game
-    - snek
-- C-Plus-Plus-Code
-    - A collection of programs that are informative or fun. Includes a dino jump game made in the terminal. Make your own burger. Check what your keys mean with the key translator.
-- price-checker
-    - A program that uses SerpApi and Unwrangle to get product prices from certian retailers.
+<details>
+    <summary>Image Multitool</summary>
+    A Python program built with tkinter, and brought about with the dark arts. It's weird, it's clunky, it'll eat up all your ram sometimes, but it's mine.(Disclaimer: It shouldn't eat up your ram. If it does please let me know so we can fix it.)
+</details>
+<details>
+    <summary>simple-snake-game</summary>
+    snek
+</details>
+<details>
+    <summary>C-Plus-Plus-Code</summary> 
+    A collection of programs that are informative or fun. Includes a dino jump game made in the terminal. Make your own burger. Check what your keys mean with the key translator.
+</details>
+<details>
+    <summary>price-checker</summary>
+    A program that uses SerpApi and Unwrangle to get product prices from certian retailers.
+</details>
 
 ## Coding Interests
 - Game Development, Image Manupulation, File Manipulation  
