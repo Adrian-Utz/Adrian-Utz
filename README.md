@@ -84,11 +84,11 @@ Things I like:
 </details>
 <details>
     <summary>C-Plus-Plus-Code</summary> 
-    A collection of programs that are informative or fun. Includes a dino jump game made in the terminal. Make your own burger. Check what your keys mean with the key translator.
+    A collection of programs that are informative or fun. Includes a dino jump game made in the terminal. Make your own burger. Check what your keys mean with the key translator. Play Asteroids in the terminal, or use check out what a sentance looks like to a computer with the Sentance to Binary Tool.
 </details>
 <details>
     <summary>price-checker</summary>
-    A program that uses SerpApi and Unwrangle to get product prices from certian retailers.
+    A program that uses SerpApi, Apify, and Unwrangle to get product prices from certian retailers. Made with Flask, everything is stored locally and uses sqlite3 for information storage. 
 </details>
 
 ## Coding Interests
