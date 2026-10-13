@@ -80,7 +80,7 @@ Things I like:
 </details>
 <details>
     <summary>simple-snake-game</summary>
-    snek
+    Simple snake game in Java. Uses java's native swing library. 
 </details>
 <details>
     <summary>C-Plus-Plus-Code</summary> 
