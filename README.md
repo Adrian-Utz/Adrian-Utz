@@ -76,7 +76,7 @@ Things I like:
 **Descriptions**:
 <details>
     <summary>Image Multitool</summary>
-    A Python program built with tkinter, and brought about with the dark arts. It's weird, it's clunky, it'll eat up all your ram sometimes, but it's mine.(Disclaimer: It shouldn't eat up your ram. If it does please let me know so we can fix it.)
+    A Python program built with tkinter, and brought about with the dark arts. It's weird, it's clunky, it'll eat up all your ram sometimes, but it's mine.(Disclaimer: It shouldn't eat up your ram. If it does please let me know so we can fix it.) Some of the things this program can do: Count Files by extention, Search and copy files, reformat and optimize images, rename files with an excel spreadsheet, compare two folders, backup files to a different location. There is two entry points into the program. The CLI starts in multitool.py and the GUI starts in gui.py. 
 </details>
 <details>
     <summary>simple-snake-game</summary>
